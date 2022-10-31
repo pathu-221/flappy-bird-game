@@ -11,7 +11,6 @@ class pipe{
     this.bottom = loadImage('img/pipeBottom.png');
     this.top.crossOrigin = 'Anonymous';
     this.bottom.crossOrigin = 'Anonymous';
-    console.log(this.top);
   }
 
   update(){
